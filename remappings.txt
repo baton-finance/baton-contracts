@@ -1,0 +1,8 @@
+@prb/test/=lib/prb-test/src/
+forge-std/=lib/forge-std/src/
+src/=src/
+@openzeppelin/=lib/openzeppelin-contracts/
+@caviar/=lib/caviar/
+@reservoir/oracle/=lib/oracle/
+@weth/=lib/canonical-weth/
+solmate/=lib/solmate/src/
